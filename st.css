@@ -1,0 +1,30 @@
+#master
+{
+color: black;
+background-color:gray;
+text-align: center;
+margin-top: 10%;
+margin-right: 20%;
+margin-left: 20%;
+}
+input[type=text],input[type=password],input[type=date]
+{
+    color: black;
+    background-color: coral;
+    width: 250px;
+    height: 50px;
+    font-size: medium;
+}
+input[type=submit]
+{
+
+    color:black;
+    background-color: lawngreen;
+    width: 100px;
+    height: 50px;
+}
+h1
+{
+    font-size: x-large;
+    color: cornflowerblue;
+}
